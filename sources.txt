@@ -1,0 +1,25 @@
+1. Enron background: http://www.investopedia.com/terms/e/enron.asp
+
+2. Convert Pandas dataframe to numeric : https://stackoverflow.com/questions/35949412/convert-whole-pandas-dataframe-containing-nan-values-from-string-to-float
+
+3. Select K Best on part of the dataframe tutorial: https://datascience.stackexchange.com/questions/10773/how-does-selectkbest-work
+
+4. Pipelines tutorial: https://www.civisanalytics.com/blog/workflows-in-python-using-pipeline-and-gridsearchcv-for-more-compact-and-comprehensive-code/
+
+5. Explanation on Robust scaler: http://benalexkeen.com/feature-scaling-with-scikit-learn/
+
+6. PCA as data preprocessing step and why the data should the preliminarily 
+scaled: https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
+
+
+7. Basics of ensemble algorithms : https://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p1.html
+
+8. Explanations for different types of ensemble algorithms including some example code for voting ensemble : https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+
+9. Docs on voting classifier in sklearn: http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html
+
+10. Tutorial on working with text data in sklearn : http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
+11. How to handle imbalanced dataset : https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+
+12. Compare the effect of different scalers on data with outliers:http://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html
